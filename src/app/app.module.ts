@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { FormsModule } from '@angular/forms';
-  import { from } from 'rxjs';
 @NgModule({
   declarations: [
     AppComponent
